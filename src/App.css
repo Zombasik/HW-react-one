@@ -30,9 +30,6 @@
 }
 
 .cont {
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
   width: 800px;
   height: 900px;
   border:2px solid #003014;
@@ -70,11 +67,4 @@
   width: 110px;
   display: flex;
   justify-content: space-between;
-}
-
-.cont-head-button-two button {
-  border-radius: 50px;
-  font-size: 30px;
-  color: white;
-  background-color: #003014;
 }

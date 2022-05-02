@@ -1,6 +1,7 @@
 import './App.css';
 import './fontawesome-free-6.0.0-web/css/all.min.css'
 import './button/button.css'
+import './input/input.css'
 
 function App() {
   return (
@@ -25,7 +26,7 @@ function App() {
               <div className='cont-head'>
                 <div className='cont-head-button'>
                   <button className='cont-head-buttonOne'>Войти</button>
-                  <input></input>
+                  <input className='cont-head-input'></input>
                   <button className='cont-head-buttonTwo'>Найти</button>
                 </div>
                 <div className='cont-head-button-two'>
