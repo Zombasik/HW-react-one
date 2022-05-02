@@ -1,0 +1,20 @@
+.cont-head-buttonOne {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    color: white;
+    background-color: #2b302d;
+
+}
+
+.cont-head-buttonTwo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 30px;
+    background: -webkit-linear-gradient(top, #00200e, #254e2b);
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
