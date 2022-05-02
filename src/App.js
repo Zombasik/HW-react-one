@@ -17,7 +17,9 @@ function App() {
           </div>
         </header>
         <main>
+          <div className='background'>
 
+          </div>
         </main>
       </div>
     </div>

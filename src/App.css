@@ -1,6 +1,5 @@
 .head {
   background: -webkit-linear-gradient(top, #003014, #2d5f34);
-  width: 100%;
   height: 80px;
   border: 1px solid black;
   display: flex;
@@ -16,4 +15,13 @@
 .head span a {
   text-decoration: none;
   color: rgb(196, 196, 196);
+}
+
+.background {
+  width: 100%;
+  height: 100vh;
+  background-image: url('./img/background_main.dark_cut-photo.ru\ \(1\).jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
